@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet.Appsettings.Tool", "Dotnet.Appsettings.Tool\Dotnet.Appsettings.Tool.csproj", "{D2E91564-2382-4674-8760-6B5BF5BD7EF3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appsettings.Override.Tool", "Appsettings.Override.Tool\Appsettings.Override.Tool.csproj", "{D2E91564-2382-4674-8760-6B5BF5BD7EF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
