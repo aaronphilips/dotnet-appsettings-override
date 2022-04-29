@@ -16,7 +16,8 @@ if (Path.IsPathRooted(options.File))
 }
 else
 {
-    configBuilder.Add(new WritableConfigurationSource(options.File));
+    configBuilder.SetBasePath(Path.GetDirectoryName(Path.Combine(Environment.CurrentDirectory,options.File!)))
+        .Add(new WritableConfigurationSource(Path.GetFileName(options.File)));
 }
 
 var config = configBuilder.Build();
