@@ -1,6 +1,6 @@
 ﻿using CommandLine.Attributes;
 
-namespace Dotnet.Appsettings.Tool;
+namespace Appsettings.Override.Tool;
 
 public class Options
 {

@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Configuration.Json;
 
-namespace Dotnet.Appsettings.Tool;
+namespace Appsettings.Override.Tool;
 
 public class WritableConfigurationSource : JsonConfigurationSource
 {
