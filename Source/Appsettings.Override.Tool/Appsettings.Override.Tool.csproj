@@ -6,7 +6,8 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <PackAsTool>true</PackAsTool>
-        <ToolCommandName>dotnet-appsettings.override</ToolCommandName>
+        <ToolCommandName>dotnet-appsettings-override</ToolCommandName>
+        <PackageId>dotnet-appsettings-override</PackageId>
     </PropertyGroup>
 
     <ItemGroup>
