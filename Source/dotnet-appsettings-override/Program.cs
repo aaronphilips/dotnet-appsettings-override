@@ -1,5 +1,4 @@
-﻿using AppSettings.Override.Tool;
-using CommandLine;
+﻿using CommandLine;
 using Microsoft.Extensions.Configuration;
 
 if (Parser.TryParse(args, out Options options) is false)
