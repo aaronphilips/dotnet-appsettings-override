@@ -2,7 +2,7 @@
 using System.Text.Json.Nodes;
 using Microsoft.Extensions.Configuration.Json;
 
-namespace Appsettings.Override.Tool;
+namespace Dotnet.AppSettings.Override;
 
 public class WritableJsonConfigurationProvider : JsonConfigurationProvider
 {
