@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-appsettings-override", "dotnet-appsettings-override\dotnet-appsettings-override.csproj", "{BEF24CCD-737F-4BA9-B229-4C00BC591C9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dotnet.AppSettings.Override", "Dotnet.Appsettings.Override\Dotnet.AppSettings.Override.csproj", "{CE31AA6F-9EF7-4601-8666-3C2D0A0C4357}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BEF24CCD-737F-4BA9-B229-4C00BC591C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BEF24CCD-737F-4BA9-B229-4C00BC591C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BEF24CCD-737F-4BA9-B229-4C00BC591C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BEF24CCD-737F-4BA9-B229-4C00BC591C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE31AA6F-9EF7-4601-8666-3C2D0A0C4357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE31AA6F-9EF7-4601-8666-3C2D0A0C4357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE31AA6F-9EF7-4601-8666-3C2D0A0C4357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE31AA6F-9EF7-4601-8666-3C2D0A0C4357}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

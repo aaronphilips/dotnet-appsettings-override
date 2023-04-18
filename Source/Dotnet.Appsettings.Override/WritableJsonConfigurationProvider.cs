@@ -2,6 +2,8 @@
 using System.Text.Json.Nodes;
 using Microsoft.Extensions.Configuration.Json;
 
+namespace Dotnet.AppSettings.Override;
+
 public class WritableJsonConfigurationProvider : JsonConfigurationProvider
 {
     public WritableJsonConfigurationProvider(JsonConfigurationSource source) : base(source)
